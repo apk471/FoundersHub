@@ -56,8 +56,8 @@ const workSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "YC Startup Repo",
-  description: "Pitch your startup to Y Combinator",
+  title: "FoundersHub",
+  description: "Pitch your startup",
 };
 
 export default function RootLayout({
